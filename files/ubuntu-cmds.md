@@ -12,7 +12,7 @@ Linux Shell Bash Frequently Used Commands
 
 `Nvidia-smi` Output Details
 
-![](../pics/nvidia-smi.png)
+![](https://github.com/BepfCp/BepfCp.github.io/blob/main/pics/nvidia-smi.png)
 
 | 名称              | 含义                                                      | 名称         | 含义                                                         |
 | ----------------- | --------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
