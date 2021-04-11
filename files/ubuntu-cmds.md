@@ -12,7 +12,7 @@ Linux Shell Bash Frequently Used Commands
 
 `Nvidia-smi` Output Details
 
- ![](ubuntu-cmds.assets/nvidia-smi.png)
+ ![](./assets/nvidia-smi.png)
 
 | 名称              | 含义                                                      | 名称         | 含义                                                         |
 | ----------------- | --------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
