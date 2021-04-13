@@ -8,6 +8,10 @@
 
 ### Deep Learning
 
+#### Pytorch
+
+[Pytorch Tutorial](./blog/pytorch-tutorial.html)
+
 ### Reinforcement Learning
 
 ## Math
