@@ -31,7 +31,7 @@
 				owner: '{{ site.comments.gitalk.owner }}',
 				admin: [{{ _admin }}],
 				// id: '{{ page.key }}'
-				id: md5(location.pathname)
+				id: (location.pathname).split("/").pop().substring(0, 49)
 			});
 			gitalk.render('js-gitalk-container');
 		});
