@@ -31,7 +31,7 @@ conda remove -n rl --all  # 删除创建的虚拟环境
 
 ```sh
 conda install cuda=10.1
-conda install -c cudnn=8.0
+conda install -c nvidia cudnn=8.0
 # cuda和cudnn的版本需做对应修改
 ```
 
