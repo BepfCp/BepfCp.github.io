@@ -30,6 +30,7 @@ conda remove -n rl --all  # 删除创建的虚拟环境
 安装cuda和cudnn，以支持GPU加速
 
 ```sh
+# 如果没有特殊要求，推荐直接使用官网提供的命令
 conda install cuda=10.1
 conda install -c cudnn=8.0
 # cuda和cudnn的版本需做对应修改
