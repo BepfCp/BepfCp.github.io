@@ -1,13 +1,12 @@
 ---
-title: PyTorch Memo
+title: [MEMO] PyTorch
 tags:
 - PyTorch
-- dl
-- note
+- Deep Learning
 date: 2021-09-05 09:51:00
 ---
 
-# PyTorch Memo
+# Hands-on PyTorch
 
 本篇博客主要用来记录我在学习使用[PyTorch](https://pytorch.org/)的过程中的笔记、问题解决方案以及学习资源，仅供个人查阅参考。
 
