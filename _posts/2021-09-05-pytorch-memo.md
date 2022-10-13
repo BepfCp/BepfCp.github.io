@@ -1,5 +1,5 @@
 ---
-title: \[MEMO\] PyTorch
+title: \[MEMO\]PyTorch
 tags:
 - PyTorch
 - Deep Learning

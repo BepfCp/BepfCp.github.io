@@ -22,7 +22,7 @@ url     : https://bepfcp.github.io/
 baseurl : # does not include hostname
 title   : Yichen Li's Personal Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  求知若饥，虚怀若愚
+  求知若渴，虚怀若愚
 
 
 ## => Language and Timezone
@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Yichen Li
+  name      : Yi-Chen Li
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : Master Student | Interested in AI
